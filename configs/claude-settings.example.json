@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "ask": [
+      "Bash(npm install*)",
+      "Bash(npm i *)",
+      "Bash(npm add *)",
+      "Bash(npm update*)",
+      "Bash(pnpm add *)",
+      "Bash(pnpm install*)",
+      "Bash(pnpm update*)",
+      "Bash(yarn add *)",
+      "Bash(bun add *)",
+      "Bash(pip install*)",
+      "Bash(pip3 install*)",
+      "Bash(uv add *)",
+      "Bash(uv pip install*)",
+      "Bash(poetry add *)",
+      "Bash(cargo add *)",
+      "Bash(go get *)",
+      "Bash(brew install*)"
+    ]
+  }
+}
